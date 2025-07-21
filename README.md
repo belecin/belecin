@@ -41,11 +41,6 @@ I'm an eighth-semester student of Statistics and Computer Science. I'm expanding
   
 </span>
 
-## Competition
-<span>
-<a href="https://codeforces.com/profile/huaraya0804">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
-</a>
 
 
 </span>
@@ -56,10 +51,3 @@ I'm an eighth-semester student of Statistics and Computer Science. I'm expanding
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=BeltranHC&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BeltranHC)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=BeltranHC&theme=material-palenight)](https://github.com/BeltranHC)
-</div>
